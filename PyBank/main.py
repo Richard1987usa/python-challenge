@@ -69,3 +69,9 @@ file.write(f"Average Change: ${average}\n")
 file.write(f"Greatest Increase in Profits: {greatest_inc[0]} (${greatest_inc[1]})\n")
 file.write(f"Greatest Decrease in Profits: {greatest_dec[0]} (${greatest_dec[1]})")
 file.close()
+
+
+
+###### Reference: The codes used to establish this VBA were copied through various sources and websites from the internet with most of 
+       the codes copied from : 
+       https://github.com/kanamoore/python-challenge/blob/master/PyBank/main.py

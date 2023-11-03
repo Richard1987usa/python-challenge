@@ -76,8 +76,3 @@ file.write(f"-------------------------\n")
 file.write(f"Winner: {winner}\n")
 file.write(f"-------------------------\n")
 file.close()
-
-
-###### Reference: The codes used to establish this VBA were copied through various sources and websites from the internet with most of 
-       the codes copied from : 
-       https://github.com/kanamoore/python-challenge/blob/master/PyBank/main.py
